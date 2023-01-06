@@ -10,7 +10,7 @@
     box-sizing: border-box;
     outline: none; border:none;
     text-decoration: none;
-    text-transform: capitalize;
+    /* text-transform: ; */
     transition: all .2s linear;
     line-height: 1.5;
 }
@@ -146,6 +146,8 @@ header .navbar a:hover{
 }
 .btn-box{
     margin-top: 20px;
+    display: flex;
+    gap:15px;
 
 }
 .box-skills{
