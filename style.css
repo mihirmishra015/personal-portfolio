@@ -165,3 +165,9 @@ header .navbar a:hover{
 .footer span{
     color:var(--main-color);
 }
+.box-git{
+    margin-top:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
